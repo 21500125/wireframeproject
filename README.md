@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](./s1.png)
+![output](./s2.png)
+![output](./s3.png)
 
 
 ## Result:
